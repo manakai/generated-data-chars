@@ -1,0 +1,105 @@
+{
+   "inputs" : [
+      {
+         "path" : "../../../../intermediate/unicode/variants.json",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/variants2.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/namesrefs.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps2.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps3.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/mj/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/mj/fmaps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/mj/kmaps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/jp/variants.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/cns/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/cns/maps2.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/mozilla/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/whatwg/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/perl/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/loc/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/adobe/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/opencc/variants.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/cjkvi/variants.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/wiki/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/misc/maps.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/misc/variants.list",
+         "rels_key" : "kanas"
+      },
+      {
+         "path" : "../../../../intermediate/misc/sets.json",
+         "set_map" : {
+            "kana_modern_large" : "jp",
+            "kana_modern_small" : "jp"
+         }
+      }
+   ],
+   "key" : "kanas",
+   "leader_types" : [
+   ],
+   "tests" : [
+      "kanas-tests.txt"
+   ]
+}

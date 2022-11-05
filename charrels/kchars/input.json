@@ -1,0 +1,94 @@
+{
+   "inputs" : [
+      {
+         "path" : "../../../../intermediate/unicode/variants.json",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/variants2.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/namesrefs.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps2.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps3.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/mj/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/mj/fmaps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/jp/variants.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/cns/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/cns/maps2.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/mozilla/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/whatwg/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/perl/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/loc/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/adobe/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/opencc/variants.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/cjkvi/variants.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/wiki/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/misc/maps.list",
+         "rels_key" : "kchars"
+      },
+      {
+         "path" : "../../../../intermediate/misc/variants.list",
+         "rels_key" : "kchars"
+      }
+   ],
+   "key" : "kchars",
+   "leader_types" : [
+   ],
+   "tests" : [
+      "kchars-tests.txt"
+   ]
+}

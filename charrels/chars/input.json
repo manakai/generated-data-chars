@@ -1,0 +1,84 @@
+{
+   "inputs" : [
+      {
+         "path" : "../../../../intermediate/unicode/variants.json",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/variants2.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/namesrefs.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps2.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/unicode/maps3.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/mj/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/mj/fmaps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/cns/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/cns/maps2.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/mozilla/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/whatwg/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/perl/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/loc/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/adobe/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/cjkvi/variants.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/wiki/maps.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/misc/variants.list",
+         "rels_key" : "variants"
+      },
+      {
+         "path" : "../../../../intermediate/misc/maps.list",
+         "rels_key" : "variants"
+      }
+   ],
+   "key" : "chars",
+   "tests" : [
+      "chars-tests.txt"
+   ]
+}
