@@ -13,19 +13,13 @@
          "min_weight" : 500
       },
       "LINKED" : {
-         "index" : 6,
+         "index" : 5,
          "key" : "LINKED",
          "label" : "Linked",
          "min_weight" : 100
       },
-      "OVERLAP" : {
-         "index" : 4,
-         "key" : "OVERLAP",
-         "label" : "Overlapping",
-         "min_weight" : 300
-      },
       "RELATED" : {
-         "index" : 5,
+         "index" : 4,
          "key" : "RELATED",
          "label" : "Related",
          "min_weight" : 200
@@ -589,39 +583,39 @@
       },
       "cjkvi:cjkvi/radical-split" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant-simplified" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant-simplified:left" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant:bottom" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant:left" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant:partial" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant:right" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/radical-variant:top" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:cjkvi/simplified" : {
          "mergeable_weight" : 700,
@@ -701,11 +695,11 @@
       },
       "cjkvi:jisx0212/variant" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:jisx0213/variant" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "cjkvi:joyo/variant" : {
          "mergeable_weight" : 700,
@@ -1073,7 +1067,7 @@
       },
       "manakai:variant" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "manakai:variant:conflicted" : {
          "mergeable_weight" : 400,
@@ -1233,11 +1227,11 @@
       },
       "mj:読み・字形による類推" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "mj:辞書類等による関連字" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "mj:音価" : {
          "mergeable_weight" : 700,
@@ -3889,7 +3883,7 @@
       },
       "unihan:kSemanticVariant" : {
          "mergeable_weight" : 700,
-         "weight" : 300
+         "weight" : 200
       },
       "unihan:kSimplifiedVariant" : {
          "mergeable_weight" : 700,
